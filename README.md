@@ -84,7 +84,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="00d2d6aa0d2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/JSamApi/JSamApi/refs/heads/main/screenshots/00d2d6aa0d2.png)
+[<img src="screenshots/00d2d6aa0d2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/JSamApi/JSamApi/refs/heads/main/screenshots/00d2d6aa0d2.png)
 
 <br>
 <br>
