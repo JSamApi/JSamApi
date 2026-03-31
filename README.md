@@ -13,7 +13,7 @@
 ---
 
 ### 📫 Связаться со мной:
-* **Telegram:** [@SamAugustov](https://t.me)
+* **Telegram:** [@SamAugustov]([https://t.me](https://t.me/SamAugustov))
 * **Email:** [hardsam4@mail.com](mailto:hardsam4@mail.com)
 
 ## 📊 Статистика
