@@ -81,22 +81,15 @@
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
-
-<br>
-
-## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/JSamApi/JSamApi/refs/heads/main/screenshots/00d2d6aa0d2.png)
+[<img src="00d2d6aa0d2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/JSamApi/JSamApi/refs/heads/main/screenshots/00d2d6aa0d2.png)
 
 <br>
 <br>
 
-## 🤝 Контакт
+## 🤝 Контакты
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:hardsam4@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/SamAugustov)
 
