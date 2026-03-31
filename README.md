@@ -12,14 +12,6 @@
 
 ---
 
-### 💻 Мой стек:
-![Postman](
-<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-<img src="[https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg](https://images.icon-icons.com/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png)" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-
----
-
 ### 📫 Связаться со мной:
 * **Telegram:** [@SamAugustov](https://t.me)
 * **Email:** [hardsam4@mail.com](mailto:твой_email@mail.com)
